@@ -1,6 +1,6 @@
 # 🔋 BMS Monitor ESP32-S3
 
-Профессиональный монитор для LiFePO4 батарей (4S) на базе lilygo t display s3 long , веб-интерфейсом и MQTT интеграцией.
+Профессиональный монитор для BMS JBD/Xiaoxiang (LiFePO4 батарей (4S)) на базе lilygo t display s3 long , веб-интерфейсом и MQTT интеграцией.
 
 ![GitHub](https://img.shields.io/github/license/maltim1961/BMS-Monitor-ESP32)
 ![GitHub stars](https://img.shields.io/github/stars/maltim1961/BMS-Monitor-ESP32)
