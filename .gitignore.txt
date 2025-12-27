@@ -1,0 +1,15 @@
+# Arduino
+*.elf
+*.eep
+*.hex
+*.map
+
+# VS Code
+.vscode/
+
+# Backups
+*.bak
+*~
+
+# Build
+build/
