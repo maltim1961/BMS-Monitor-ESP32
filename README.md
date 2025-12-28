@@ -1,10 +1,11 @@
 # 🔋 BMS Monitor ESP32-S3
 
-Профессиональный монитор для LiFePO4 батарей (4S) на базе ESP32-S3 с AMOLED дисплеем, веб-интерфейсом и MQTT интеграцией.
+Профессиональный монитор для BMS JBD/Xiaoxiang (LiFePO4 батарей (4S)) на базе lilygo t display s3 long , веб-интерфейсом и MQTT интеграцией.
 
-![GitHub](https://img.shields.io/github/license/yourusername/BMS-Monitor-ESP32)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/BMS-Monitor-ESP32)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/BMS-Monitor-ESP32)
+![GitHub](https://img.shields.io/github/license/maltim1961/BMS-Monitor-ESP32)
+![GitHub stars](https://img.shields.io/github/stars/maltim1961/BMS-Monitor-ESP32)
+![GitHub forks](https://img.shields.io/github/forks/maltim1961/BMS-Monitor-ESP32)
+
 
 ---
 
@@ -57,8 +58,8 @@
 
 | Компонент | Описание |
 |-----------|----------|
-| **Микроконтроллер** | ESP32-S3 с PSRAM (минимум 4MB, рекомендуется 8MB) |
-| **Дисплей** | AMOLED 640×180, контроллер AXS15231B (QSPI интерфейс) |
+| **Микроконтроллер** | lilygo t display s3 long |
+| **Дисплей** | lilygo t display s3 long |
 | **BMS** | JBD/Xiaoxiang для LiFePO4 4S с Bluetooth |
 | **Батарея** | LiFePO4 4S (номинал 12.8V, полный заряд ~14.6V) |
 
